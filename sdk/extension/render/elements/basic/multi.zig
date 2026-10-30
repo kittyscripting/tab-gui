@@ -1,0 +1,15 @@
+pub fn step(value: *u32, option_count: u32) bool {
+    _ = value;
+    _ = option_count;
+    return undefined;
+}
+
+pub fn render(x: f32, y: f32, w: f32, h: f32, value: u32, options: []const []const u8, color: i32) void {
+    _ = x;
+    _ = y;
+    _ = w;
+    _ = h;
+    _ = value;
+    _ = options;
+    _ = color;
+}
